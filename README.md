@@ -1,5 +1,7 @@
 # Hi there 👋
 
+I'm a student at the University of Bordeaux in the first year of a computer science degree.
+
 <!--
 **Illumye/Illumye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
