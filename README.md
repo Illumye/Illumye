@@ -2,6 +2,8 @@
 
 I'm a student at the University of Bordeaux in the first year of a computer science degree.
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=s_angy&unique=true)
+
 <!--
 **Illumye/Illumye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
