@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a student at the University of Bordeaux in the first year of a computer science degree.
+I'm a student at the University of Bordeaux in the second year of a computer science degree.
 
 ## Projects
 
