@@ -4,7 +4,7 @@ I'm a student at the University of Bordeaux in the second year of a computer sci
 
 ## Projects
 
-Here, you can find all my main projects here :
+You can find all my main projects here :
 
 - [Pinspire - "Bases de données et programmation web" project](https://github.com/Illumye/pinspire)
 - VideoTracker (private project on Gitlab, sorry !)
