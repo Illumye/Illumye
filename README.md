@@ -1,34 +1,45 @@
-# Hi there 👋
+# Salut, moi c'est illumye 👋 
 
-I'm a student at the University of Bordeaux in the third year of a computer science degree.
+**Étudiant en L3 Informatique à l'Université de Bordeaux** *Passionné par le développement système, les moteurs de jeux et le web moderne.*
 
-## Projects
+[🌐 Visiter mon hub personnel : illumye.me](https://illumye.me)
 
-You can find all my main projects here :
-
-- [Pinspire - "Bases de données et programmation web" project](https://github.com/Illumye/pinspire)
-- VideoTracker (private project on Gitlab, sorry !)
-
-## TODOs
-- [ ] Import VideoTracker project from the CREMI Gitlab
- 
 ---
 
-## Spotify recently played
+### 🚀 Projets à la une
 
+| Projet | Tech | Description |
+| :--- | :--- | :--- |
+| **[Net Puzzle Game](https://angy-seguy.emi.u-bordeaux.fr/net-a22-zt94km/)** | `C` `SDL` `Emscripten` | Clone de puzzle game porté sur le Web via WebAssembly. |
+| **[Fork UKit](https://ukit.illumye.me)** | `React` `TS` | Application compagnon pour les étudiants de l'UB. |
+| **Compilateur** | `OCaml` | Développement d'un compilateur complet (Projet Académique). |
+| **UBGarden** | `Java` | Jeu de gestion de jardin (Interface Graphique). |
+
+---
+
+### 🛠️ Mon Stack Technique
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-%23ec6847.svg?style=for-the-badge&logo=ocaml&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%23ff5d01.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+---
+
+### 🔭 En ce moment
+- ⚙️ Je planche sur la génération de code pour mon **compilateur OCaml**.
+- 🏗️ J'architecture un projet **Spring Boot / Vue.js**.
+- 🧪 J'expérimente des trucs sur [mon labo](https://illumye.me/lab).
+
+---
+
+### 🎵 Spotify Recently Played
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=s_angy&unique=true)
 
-<!--
-**Illumye/Illumye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Me contacter
+- **Site Web :** [illumye.me](https://illumye.me)
+- **Email :** [contact@illumye.me](mailto:contact@illumye.me)
