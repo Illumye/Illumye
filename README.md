@@ -4,7 +4,7 @@
 
 Je m'intéresse particulièrement à la programmation système, au développement de moteurs de jeux et à l'ingénierie web moderne. 
 
-[Portfolio](https://illumye.me) • [Email](mailto:contact@illumye.me)
+[Portfolio](https://angyseguy.com) • [Email](mailto:angy.seguy@gmail.com)
 
 ---
 
