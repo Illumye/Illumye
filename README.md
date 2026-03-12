@@ -1,10 +1,19 @@
-# Illumye
+<div align="right">
+  <strong>FR</strong> | <a href="README-en.md">EN</a>
+</div>
 
-**Étudiant en L3 Informatique — Université de Bordeaux**
+<a href="https://angyseguy.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2000&color=8cb4ff&vCenter=true&width=750&lines=Salut,+je+suis+Angy+aka+Illumye.;%C3%89tudiant+en+L3+Informatique.;Passionn%C3%A9+par+la+prog+syst%C3%A8me." alt="Typing text" />
+</a>
 
-Je m'intéresse particulièrement à la programmation système, au développement de moteurs de jeux et à l'ingénierie web moderne. 
+**Étudiant en L3 Informatique** à l'Université de Bordeaux.
 
-[Portfolio](https://angyseguy.com) • [Email](mailto:angy.seguy@gmail.com)
+Je m'intéresse particulièrement à la programmation système, au développement de moteurs de jeux et à l'ingénierie web moderne.
+
+* **Travaux en cours** : Développement de la phase de génération de code d'un compilateur en OCaml et conception de l'architecture d'une application full-stack sous Spring Boot et Vue.js.
+* **Stack Technique** : ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-%23ec6847.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%23ff5d01.svg?style=for-the-badge&logo=astro&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+Contact : [angy@kaelab.dev](mailto:angy@kaelab.dev) | [Portfolio](https://angyseguy.com)
 
 ---
 
@@ -16,22 +25,6 @@ Je m'intéresse particulièrement à la programmation système, au développemen
 | **[UKit (Fork)](https://ukit.illumye.me)** | `React`, `TypeScript` | Application web compagnon destinée aux étudiants de l'Université de Bordeaux. |
 | **Compilateur** | `OCaml` | Conception et développement d'un compilateur complet (projet académique). |
 | **UBGarden** | `Java` | Jeu de gestion de jardin incluant le développement d'une interface graphique. |
-
-## Travaux en cours
-
-* Développement de la phase de génération de code d'un compilateur en OCaml.
-* Conception de l'architecture d'une application full-stack sous Spring Boot et Vue.js.
-
-## Stack Technique
-
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![OCaml](https://img.shields.io/badge/OCaml-%23ec6847.svg?style=for-the-badge&logo=ocaml&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-%23ff5d01.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
----
 
 <br>
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=s_angy&unique=true" alt="Derniers titres écoutés sur Spotify">
