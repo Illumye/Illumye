@@ -22,7 +22,7 @@ Contact : [angy@kaelab.dev](mailto:angy@kaelab.dev) | [Portfolio](https://angyse
 | Projet | Technologies | Description |
 | :--- | :--- | :--- |
 | **[Net Puzzle Game](https://angy-seguy.emi.u-bordeaux.fr/net-a22-zt94km/)** | `C`, `SDL`, `Wasm` | Clone d'un puzzle game porté sur navigateur via WebAssembly et Emscripten. |
-| **[UKit (Fork)](https://ukit.illumye.me)** | `React`, `TypeScript` | Application web compagnon destinée aux étudiants de l'Université de Bordeaux. |
+| **[UKit](https://ukit-bordeaux.fr)** | `React`, `TypeScript` | Application web compagnon destinée aux étudiants de l'Université de Bordeaux. |
 | **Compilateur** | `OCaml` | Conception et développement d'un compilateur complet (projet académique). |
 | **UBGarden** | `Java` | Jeu de gestion de jardin incluant le développement d'une interface graphique. |
 
